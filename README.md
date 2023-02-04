@@ -1,1 +1,1 @@
-# pasino
+# pas
